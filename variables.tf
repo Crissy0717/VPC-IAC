@@ -21,6 +21,7 @@ variable "crissy-vpc_public_subnet_2_cidr" {
 
 variable "crissy-vpc_public_subnet_3_cidr" {
   description = "Public Subnet 3 cidr block"
+  default = "10.0.3.0/24"
 }
 
 variable "crissy-vpc_private_subnet_1_cidr" {
