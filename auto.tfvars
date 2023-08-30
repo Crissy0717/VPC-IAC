@@ -7,3 +7,4 @@ public_subnet_3_cidr  = "10.0.3.0/24"
 private_subnet_1_cidr = "10.0.10.0/24"
 private_subnet_2_cidr = "10.0.12.0/24"
 private_subnet_3_cidr = "10.0.13.0/24"
+
