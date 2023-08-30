@@ -4,7 +4,7 @@ variable "region" {
 }
 
 variable "enviroment" {
-  default = "development"
+  default = "crissy-vpc"
 }
 
 variable "vpc_cidr" {
